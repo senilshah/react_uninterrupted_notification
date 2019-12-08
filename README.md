@@ -6,7 +6,7 @@ show notification from component even if route/parent component un-mounts
   - `html2canvas` to covert any third party packages into canvas like graphs or so.
   - npm package `file-save` to store the blob response generated from the html to pdf.
   - firebase firestore for database connection.
-  - here we are using antd component for notification and progress.
+  - here we are using `antd` component for notification and progress.
   
 The basic requirement to come with this sample is, we need the functionality in any route component and not in every route. Now we cannot ask the user to stay on the same page until the whole process of downloading the pdf ends.
 
