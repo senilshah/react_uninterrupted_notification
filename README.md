@@ -1,4 +1,4 @@
-# unbreakable_notification
+# uninterrupted_notification
 show notification from component even if route/parent component un-mounts
 
 - This code sample is based on when we want to download a whole html page into a pdf.
